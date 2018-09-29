@@ -15,3 +15,11 @@ footer {
   background-color: #D2B48C;
   color: #2E0000;
 }
+
+.footer {
+    font-style: italic;
+    font-size:small;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
