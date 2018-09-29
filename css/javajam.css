@@ -9,8 +9,9 @@ nav {
   text-align: center;
 }
 
-
-
+ul {
+  list-style-image: url("images/marker.gif");
+}
 footer {
   background-color: #D2B48C;
   color: #2E0000;
@@ -22,9 +23,6 @@ padding-left: 10px;
 }
 
 
-ul {
-  list-style-image: url("images/marker.gif");
-}
 
 .footer {
     font-style: italic;
@@ -48,7 +46,7 @@ ul {
     padding-top: 0px;
     padding-left: 0px;
     padding-right: 0px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     background-color: #F5F5DC;
     box-shadow: 5px 5px 5px #1e1e1e;
   }
