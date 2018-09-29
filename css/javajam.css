@@ -9,9 +9,8 @@ nav {
   text-align: center;
 }
 
-ul {
-  list-style-image: url("images/marker.gif");
-}
+
+
 footer {
   background-color: #D2B48C;
   color: #2E0000;
@@ -38,6 +37,10 @@ padding-left: 10px;
       margin-right: auto;
       width: 50%;
   }
+
+#jobs {
+  padding-right: 15px;
+}
 
   #container {
     margin-right: auto;
