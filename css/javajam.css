@@ -3,10 +3,20 @@
 h1 {
   background-color: #D2B48C;
   color: #000000;
+  margin-left: -10px;
+
+}
+
+h2 {
+  font-family: fantasy;
 }
 
 nav {
   text-align: center;
+}
+
+dd {
+  margin-left: 20px;
 }
 
 ul {
@@ -15,12 +25,15 @@ ul {
 footer {
   background-color: #D2B48C;
   color: #2E0000;
+  margin-left: -10px;
 
 }
 
 div {
 padding-left: 10px;
 }
+
+
 
 
 
