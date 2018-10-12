@@ -3,23 +3,42 @@
 h1 {
   background-color: #D2B48C;
   color: #000000;
+  margin-left: -10px;
+
+}
+
+h2 {
+  font-family: fantasy;
 }
 
 nav {
   text-align: center;
 }
 
+<<<<<<< HEAD
 
 
+=======
+dd {
+  margin-left: 20px;
+}
+
+ul {
+  list-style-image: url("images/marker.gif");
+}
+>>>>>>> ae8d75cf1515f5d40e71c1d4b59f459502b08789
 footer {
   background-color: #D2B48C;
   color: #2E0000;
+  margin-left: -10px;
 
 }
 
 div {
 padding-left: 10px;
 }
+
+
 
 
 
